@@ -3,4 +3,6 @@ numpy
 matplotlib
 pandas
 scipy
+scikit-learn
+seaborn
 python-lsp-server
